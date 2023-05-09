@@ -1,0 +1,24 @@
+ /* adicione algum style para a tag body em style.css. */
+ body
+  {
+    color: white;
+    background: pink;
+  }
+  /* Fornecemos a class para h3 como heading. Agora, escreva o style */
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  /* adicione style para essa div câmera */
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  /* escrevemos style para a class nameOfObjects */
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: yellow;
+  }
